@@ -25,19 +25,19 @@ a:active{
     border-radius: 8px;
 }
 
-.foto-efeito{
+.foto-efeito iframe{
     width: 340px;
     height: 360px;
     border-radius: 16px;
 }
 
-.foto-placa{
+.foto-placa iframe{
     width: 340px;
     height: 360px;
     border-radius: 16px;
 }
 
-.foto-radiacao{
+.foto-radiacao iframe{
     width: 340px;
     height: 360px;
     border-radius: 16px;
