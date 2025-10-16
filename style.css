@@ -5,6 +5,13 @@ body{
     text-align: center;
 }
 
+input,button{
+    background-color: black;
+    font-size: 1.25rem;
+    color: white;
+    border-radius: 8px;
+}
+
 a:hover{
     padding: 8px;
     margin-right: 8px;
