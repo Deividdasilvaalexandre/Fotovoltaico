@@ -1,5 +1,5 @@
 body{
-    background-color: aqua;
+    background-color: lawngreen;
     color: white;
     font-size: 1.5rem;
     text-align: center;
@@ -17,7 +17,7 @@ a:hover{
     margin-right: 8px;
     transition: ease;
     transition-duration: 1s;
-    background-color: darkslateblue;
+    background-color: aqua;
     color: white;
     border-radius: 8px;
 }
@@ -27,7 +27,7 @@ a:active{
     margin-right: 8px;
     transition: ease;
     transition-duration: 1s;
-    background-color: darkslateblue;
+    background-color: aqua;
     color: white;
     border-radius: 8px;
 }
