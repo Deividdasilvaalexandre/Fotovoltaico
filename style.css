@@ -79,3 +79,10 @@ a:active{
     height: 360px;
     border-radius: 16px;
 }
+
+.config-video{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
