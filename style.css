@@ -49,3 +49,33 @@ a:active{
     height: 360px;
     border-radius: 16px;
 }
+
+.foto-arduino-ide iframe{
+    width: 340px;
+    height: 360px;
+    border-radius: 16px;
+}
+
+.foto-sete-segmentos iframe{
+    width: 340px;
+    height: 360px;
+    border-radius: 16px;
+}
+
+.foto-potenciometro iframe{
+    width: 340px;
+    height: 360px;
+    border-radius: 16px;
+}
+
+.foto-grafico-led iframe{
+    width: 340px;
+    height: 360px;
+    border-radius: 16px;
+}
+
+.foto-grafico-sete iframe{
+    width: 340px;
+    height: 360px;
+    border-radius: 16px;
+}
