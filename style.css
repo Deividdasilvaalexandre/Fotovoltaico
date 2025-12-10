@@ -86,3 +86,9 @@ a:active{
     justify-content: center;
     align-items: center;
 }
+
+.foto-componentes iframe{
+    width: 340px;
+    height: 360px;
+    border-radius: 16px;
+}
