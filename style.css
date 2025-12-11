@@ -92,3 +92,9 @@ a:active{
     height: 360px;
     border-radius: 16px;
 }
+
+.foto-arduino iframe{
+    width: 340px;
+    height: 360px;
+    border-radius: 16px;
+}
